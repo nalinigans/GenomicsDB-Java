@@ -1,2 +1,2 @@
 # GenomicsDB-Java
-Java Bindings to GenomicsDB API
+Experimental Java Bindings to the native GenomicsDB library
