@@ -1,2 +1,2 @@
 # GenomicsDB-Java
-Experimental Java Bindings to the native GenomicsDB library
+Experimental Java Bindings to the native GenomicsDB library.
